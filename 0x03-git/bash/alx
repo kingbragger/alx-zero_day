@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 echo "ALX school is cool"
+=======
+echo "ALX school is cool!"
+>>>>>>> origin/update_script
